@@ -1,2 +1,2 @@
-# Azure_Terrafrom
+# Azure_Terraform
 This Directory contains Terraform Code for Azure infrastructure.
